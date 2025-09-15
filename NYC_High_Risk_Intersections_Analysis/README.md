@@ -89,7 +89,7 @@ Following DAX expression was written for the same;
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Screenshot (106)](https://github.com/user-attachments/assets/4b8cf5e0-fc5b-473a-b26d-bc2c0af1d4be)
+<img width="892" height="508" alt="Image" src="https://github.com/user-attachments/assets/d70b0505-7f81-4e51-a200-072696477813" />
 
 The second page
 ![Screenshot (107)](https://github.com/user-attachments/assets/cb599c59-279e-4a33-9f41-ff7fd93c5c68)
