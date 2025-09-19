@@ -28,6 +28,65 @@ Second Page
 
 <img width="717" height="367" alt="Image" src="https://github.com/user-attachments/assets/a1d20b5b-d19b-4026-9a53-051b315175f9" />
 
+
+# **Case Study: Data-Driven Insights for NYC Pedestrian Safety**
+
+**Problem**
+New York City has seen persistent pedestrian safety challenges, with over **1.41 million recorded collisions** and more than **93,000 pedestrian injuries** in recent years. The NYC Department of Transportation (DOT) needed a **data-driven framework** to:
+
+* Compare collision risks across boroughs.
+* Identify leading causes of pedestrian injuries and fatalities.
+* Understand temporal patterns (hourly, daily, and month-over-month).
+* Model the potential impact of targeted safety interventions.
+
+**Approach**
+Using the NYC Collisions dataset, a multi-page **Power BI dashboard** was developed with the following capabilities:
+
+* **Borough-level analysis**: Compare distribution of collisions, injuries, and fatalities across Bronx, Queens, Manhattan, Brooklyn, and Staten Island.
+* **Contributing factor analysis**: Identify root causes such as driver inattention, failure to yield, and unsafe speed.
+* **Temporal trends**: Month-over-month collision distribution, weekday vs weekend breakdowns, and peak hourly risk analysis.
+* **Scenario modeling**: Estimate collision reductions if targeted interventions were applied to the top 20 high-risk intersections.
+
+**Results & Impact**
+
+1. **Borough-Level Risks**
+
+   * Bronx had the **highest share of collisions (31.9%)**, while Staten Island had the lowest (4.3%).
+   * Insights allowed DOT to **prioritize resources geographically**, focusing enforcement and infrastructure upgrades in high-burden boroughs.
+
+2. **Leading Causes of Collisions**
+
+   * **Driver inattention** was the top factor, responsible for nearly **1 in 5 pedestrian injuries**.
+   * **Failure to yield** was strongly associated with pedestrian fatalities.
+   * Findings informed **public education campaigns** and **distracted driving enforcement initiatives**.
+
+3. **Temporal Insights — Month-over-Month & Hourly Risks**
+
+   * Dashboard drilldowns revealed **month-over-month distribution of collisions**, enabling tracking of seasonal variations and policy impact.
+   * Collisions peaked between **12 PM – 7 PM**, with a sharp spike at **5:00 PM (rush hour)**.
+   * Thursdays and Fridays had the highest weekly risk.
+   * Insights supported **signal timing adjustments** and **enforcement targeting during high-risk hours**.
+
+4. **Scenario Modeling for Impact**
+
+   * If interventions reduced collisions at the **top 20 intersections (≈5% of collisions)**:
+
+     * A **25% reduction** → prevents \~**17,600 collisions annually**.
+     * A **40% reduction** → prevents \~**28,200 collisions annually**.
+   * Demonstrated that **focusing on <1% of NYC’s streets** could deliver a **citywide reduction of 1–2% in total collisions** — a high-return strategy.
+
+**Conclusion**
+The project provided NYC DOT with a **holistic collision risk framework**:
+
+* Compare borough risks.
+* Identify and address key contributing factors.
+* Track **month-over-month distribution** and time-of-day peaks.
+* Model ROI of targeted interventions.
+
+This integrated approach enables **smarter investment in safety**, ensuring resources are directed where they will have the greatest impact in reducing pedestrian injuries and fatalities.
+
+
+
 ## Problem Statement
 
 The rise in pedestrian fatalities in New York City has highlighted the need for a data-driven approach to improve safety at high-risk intersections. The NYC Department of Transportation (DOT) aims to address this issue by analyzing collision data to identify intersections with a high frequency of pedestrian collisions. The analysis will focus on factors such as speeding, distracted driving, and inadequate infrastructure. 
