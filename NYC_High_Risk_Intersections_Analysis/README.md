@@ -81,15 +81,19 @@ Following DAX expression was written for the same;
 
 
 
-- Step 15 : Visual filters (Slicers) was added for the field named "Year" and "Month".
+- Step 15 : Visual filters (Slicers) was added for the field named "Year" and "Month" and also for the borough field to see the collision distribution across the boroughs.
 
  - Step 16 : The report was then published to Power BI Service.
 
  
  # Report Snapshot (Power BI DESKTOP)
-
+Manhattan Borough
  
 <img width="892" height="508" alt="Image" src="https://github.com/user-attachments/assets/d70b0505-7f81-4e51-a200-072696477813" />
+
+Bronx Borough
+
+<img width="905" height="507" alt="Image" src="https://github.com/user-attachments/assets/087ce75c-9588-495f-8652-903de0211ac7" />
 
 The second page
 ![Screenshot (107)](https://github.com/user-attachments/assets/cb599c59-279e-4a33-9f41-ff7fd93c5c68)
