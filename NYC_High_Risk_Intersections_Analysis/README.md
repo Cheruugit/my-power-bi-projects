@@ -89,7 +89,7 @@ Following DAX expression was written for the same;
  # Report Snapshot (Power BI DESKTOP)
 Manhattan Borough
  
-<img width="892" height="508" alt="Image" src="https://github.com/user-attachments/assets/d70b0505-7f81-4e51-a200-072696477813" />
+<img width="717" height="404" alt="Image" src="https://github.com/user-attachments/assets/ddd908d1-de3a-465d-9325-3d4860be48af" />
 
 Bronx Borough
 
