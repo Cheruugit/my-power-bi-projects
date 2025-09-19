@@ -2,6 +2,23 @@
 
 ---
 
+## 📌 Report Snapshot
+
+A quick overview of the dashboard and findings:
+
+- **Global Avg. Death Rate:** 7,063 per 100,000  
+- **Total Deaths (1970–2010):** 948M+  
+- **Trends:** Mortality rates declined, but absolute deaths increased due to population growth  
+- **Top Contributors:** India, China, USA, Russia, Germany, Nigeria  
+- **Gender:** Men consistently had higher mortality than women  
+- **Age Groups:** Elderly (80+ years) most affected, but infant and child mortality remained high  
+
+📷 **Dashboard Preview**
+
+![Global Mortality Dashboard](https://github.com/user-attachments/assets/84a16e86-b450-41f8-892f-e05eb69b3255.png)
+
+---
+
 ## 🟠 Problem
 
 Mortality data is critical for public health planning, but large datasets can be overwhelming to interpret.  
@@ -59,9 +76,3 @@ This project showcases my ability to:
 - Clean and analyze **large, complex datasets**.  
 - Build **interactive dashboards in Tableau**.  
 - Translate **technical insights into policy-relevant narratives**.  
-
----
-
-## 📷 Dashboard Preview
-
-![Global Mortality Dashboard](https://github.com/user-attachments/assets/84a16e86-b450-41f8-892f-e05eb69b3255.png)
