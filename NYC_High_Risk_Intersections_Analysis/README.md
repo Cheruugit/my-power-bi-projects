@@ -24,6 +24,9 @@ Queens Borough
 
 <img width="718" height="402" alt="Image" src="https://github.com/user-attachments/assets/0ffe7708-b51d-4a8d-bf1b-8252275efc46" />
 
+Second Page 
+
+<img width="717" height="367" alt="Image" src="https://github.com/user-attachments/assets/a1d20b5b-d19b-4026-9a53-051b315175f9" />
 
 ## Problem Statement
 
