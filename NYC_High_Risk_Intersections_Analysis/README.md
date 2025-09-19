@@ -96,8 +96,11 @@ Bronx Borough
 <img width="905" height="507" alt="Image" src="https://github.com/user-attachments/assets/087ce75c-9588-495f-8652-903de0211ac7" />
 Brooklyn Borough
 
-
 <img width="904" height="508" alt="Image" src="https://github.com/user-attachments/assets/b56128fb-16d3-4be5-ba59-71b3e5b1e6a9" />
+
+Staten Island
+
+<img width="715" height="403" alt="Image" src="https://github.com/user-attachments/assets/8d7e42fa-b419-4f22-91a8-7500c5a67aba" />
 
 The second page
 ![Screenshot (107)](https://github.com/user-attachments/assets/cb599c59-279e-4a33-9f41-ff7fd93c5c68)
