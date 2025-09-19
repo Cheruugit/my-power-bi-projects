@@ -37,6 +37,7 @@ New York City has seen persistent pedestrian safety challenges, with over **1.41
 * Model the potential impact of targeted safety interventions.
 
 **Approach**
+
 Using the NYC Collisions dataset, a multi-page **Power BI dashboard** was developed with the following capabilities:
 
 * **Borough-level analysis**: Compare distribution of collisions, injuries, and fatalities across Bronx, Queens, Manhattan, Brooklyn, and Staten Island.
@@ -73,6 +74,7 @@ Using the NYC Collisions dataset, a multi-page **Power BI dashboard** was develo
    * Demonstrated that **focusing on <1% of NYC’s streets** could deliver a **citywide reduction of 1–2% in total collisions** — a high-return strategy.
 
 **Conclusion**
+
 The project provided NYC DOT with a **holistic collision risk framework**:
 
 * Compare borough risks.
@@ -159,11 +161,6 @@ Following DAX expression was written for the same;
 - Step 15 : Visual filters (Slicers) was added for the field named "Year" and "Month" and also for the borough field to see the collision distribution across the boroughs.
 
  - Step 16 : The report was then published to Power BI Service.
-
- 
-
-The second page
-![Screenshot (107)](https://github.com/user-attachments/assets/cb599c59-279e-4a33-9f41-ff7fd93c5c68)
 
 # Insights
 
