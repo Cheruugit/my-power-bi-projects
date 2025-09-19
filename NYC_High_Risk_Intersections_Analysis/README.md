@@ -101,6 +101,7 @@ Brooklyn Borough
 Staten Island
 
 <img width="715" height="403" alt="Image" src="https://github.com/user-attachments/assets/8d7e42fa-b419-4f22-91a8-7500c5a67aba" />
+
 Queens Borough
 
 <img width="718" height="402" alt="Image" src="https://github.com/user-attachments/assets/0ffe7708-b51d-4a8d-bf1b-8252275efc46" />
