@@ -1,8 +1,10 @@
-# 📊 Case Study: Analyzing Global Mortality Rates (1970–2010)
+# 📊 Case Study: Analyzing Global Mortality Rates
 
 ---
 
 ## 📌 Report Snapshot
+
+<img width="1206" height="535" alt="Image" src="https://github.com/user-attachments/assets/201b10c2-2905-4d27-99cf-f46687183122" />
 
 A quick overview of the dashboard and findings:
 
@@ -14,9 +16,6 @@ A quick overview of the dashboard and findings:
 - **Age Groups:** Elderly (80+ years) most affected, but infant and child mortality remained high  
 
 📷 **Dashboard Preview**
-
-
-<img width="1206" height="535" alt="Image" src="https://github.com/user-attachments/assets/201b10c2-2905-4d27-99cf-f46687183122" />
 
 [Open Dashboard](https://public.tableau.com/app/profile/rvtti.rvtti/viz/Mortalityrates_17324552707430/Dashboard2)
 
