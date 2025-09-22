@@ -15,7 +15,10 @@ A quick overview of the dashboard and findings:
 
 📷 **Dashboard Preview**
 
-![Global Mortality Dashboard](https://github.com/user-attachments/assets/84a16e86-b450-41f8-892f-e05eb69b3255.png)
+
+<img width="1206" height="535" alt="Image" src="https://github.com/user-attachments/assets/201b10c2-2905-4d27-99cf-f46687183122" />
+
+[Open Dashboard](https://public.tableau.com/app/profile/rvtti.rvtti/viz/Mortalityrates_17324552707430/Dashboard2)
 
 ---
 
